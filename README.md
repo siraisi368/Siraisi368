@@ -1,7 +1,11 @@
 # siraisi368 (MasatoSiraisi)
 <p align="left"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Siraisi368&theme=nord&show_icons=ture" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraisi368&layout=compact&show_icons=true&theme=nord" />
+  </a>
 </p>
 <h2 align ="left">自己紹介</h2>
 関東のどっかで受験を目の前にしてプログラムを書いたり自宅サーバいじりをしている生き物です<br>
