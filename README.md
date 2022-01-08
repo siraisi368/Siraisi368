@@ -3,8 +3,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Siraisi368&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraisi368" />
-</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraisi368" />
+</a>
 <h2>自己紹介</h2>
 関東のどっかで受験を目の前にしてプログラムを書いたり自宅サーバいじりをしている生き物です<br>
 主にC#をつかいます。極稀に単純すぎるHTMLを書いてます。
