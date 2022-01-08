@@ -11,3 +11,6 @@ InnovaSystem: https://innovasystem.jp<br>
 SiraisiChannel Networks: https://schnetworks.net<br>
 ブログ: https://siraisiofficial.net<br>
 NDN: https://ndnet.jp/
+<h2>ソースコードの利用について</h2>
+私が公開しているソースコードのほとんどは、「ApacheLicense 2.0」というライセンスを付与しています。<br>
+ですので、公開しているソフトは条文で許可されている範囲に限り、ご自由にお使いいただけます。
