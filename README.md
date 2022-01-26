@@ -21,5 +21,5 @@ SiraisiChannel Networks: https://schnetworks.net<br>
 NDN: https://ndnet.jp/
 <br>
 <h2 align ="center">ソースコードの利用について</h2>
-私が公開しているソースコードのほとんどは、「ApacheLicense 2.0」というライセンスを付与しています。<br>
-ですので、公開しているソフトは条文で許可されている範囲に限り、ご自由にお使いいただけます。
+<p align ="center">私が公開しているソースコードのほとんどは、「ApacheLicense 2.0」というライセンスを付与しています。</p>
+<p align ="center">ですので、公開しているソフトは条文で許可されている範囲に限り、ご自由にお使いいただけます。</p>
