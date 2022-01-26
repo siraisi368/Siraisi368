@@ -11,9 +11,9 @@
 関東のどっかで受験を目の前にしてプログラムを書いたり自宅サーバいじりをしている生き物です<br>
 主にC#をつかいます。極稀に単純すぎるHTMLを書いてます。
 <h2 align ="left">所属団体</h2>
-・InnovaSystem<br>
-・SiraisiChannel Networks<br>
-・NDN 自然災害防災ネットワーク<br>
+・InnovaSystem (代表)<br>
+・SiraisiChannel Networks (代表)<br>
+・NDN 自然災害防災ネットワーク (ソフト開発・配信担当)<br>
 <h2 align ="left">サイト</h2>
 InnovaSystem: https://innovasystem.jp<br>
 SiraisiChannel Networks: https://schnetworks.net<br>
