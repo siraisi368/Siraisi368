@@ -8,16 +8,16 @@
   </a>
 </p>
 <h2 align ="left">自己紹介</h2>
-関東のどっかで受験を目の前にしてプログラムを書いたり自宅サーバいじりをしている生き物です<br>
-主にC#をつかいます。極稀に単純すぎるHTMLを書いてます。
+関東のどっかでプログラムを書いたり自宅サーバいじりをしている生き物です<br>
+主にC#をつかいます。極稀に単純すぎるHTMLを書いてます。最近Pythonはじめました。
 <h2 align ="left">所属団体</h2>
 ・InnovaSystem (代表)<br>
 ・SiraisiChannel Networks (代表)<br>
 ・NDN 自然災害防災ネットワーク (ソフト開発・配信担当)<br>
 <h2 align ="left">サイト</h2>
-InnovaSystem: https://innovasystem.jp<br>
-SiraisiChannel Networks: https://schnetworks.net<br>
-ブログ: https://siraisiofficial.net<br>
+InnovaSystem: [--閉鎖中--]<br>
+SiraisiChannel Networks: [--閉鎖中--]<br>
+ブログ: [--閉鎖中--]<br>
 NDN: https://ndnet.jp/
 <br>
 <h2 align ="center">ソースコードの利用について</h2>
