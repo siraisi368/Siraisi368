@@ -12,7 +12,7 @@
 主にC#をつかいます。極稀に単純すぎるHTMLを書いてます。最近Pythonはじめました。
 <h2 align ="left">所属団体</h2>
 ・InnovaSystem (代表)<br>
-・SiraisiChannel Networks (代表)<br>
+・SiraisiChannel Networks (代表・インフラ管理部門責任者)<br>
 ・NDN 自然災害防災ネットワーク (ソフト開発・配信担当)<br>
 <h2 align ="left">サイト</h2>
 InnovaSystem: [--閉鎖中--]<br>
