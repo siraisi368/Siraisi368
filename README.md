@@ -13,12 +13,12 @@
 <h2 align ="left">所属団体</h2>
 ・InnovaSystem (代表)<br>
 ・SiraisiChannel Networks (代表・インフラ管理部門責任者)<br>
-・NDN 自然災害防災ネットワーク (ソフト開発・配信担当)<br>
+・YDITS Project (配信課・技術課)<br>
 <h2 align ="left">サイト</h2>
 InnovaSystem: [--閉鎖中--]<br>
 SiraisiChannel Networks: [--閉鎖中--]<br>
 ブログ: [--閉鎖中--]<br>
-NDN: https://ndnet.jp/
+YDITS Project: https://yone1130.github.io/YDITS/
 <br>
 <h2 align ="center">ソースコードの利用について</h2>
 <p align ="center">私が公開しているソースコードのほとんどは、「ApacheLicense 2.0」というライセンスを付与しています。</p>
