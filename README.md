@@ -18,7 +18,7 @@
 InnovaSystem: [--閉鎖中--]<br>
 SiraisiChannel Networks: [--閉鎖中--]<br>
 ブログ: https://blog.schnetworks.net<br>
-YDITS Project: https://yone1130.github.io/YDITS/
+YDITS Project: https://www.ydits.net/
 <br>
 <h2 align ="center">ソースコードの利用について</h2>
 <p align ="center">私が公開しているソースコードのほとんどは、「ApacheLicense 2.0」というライセンスを付与しています。</p>
