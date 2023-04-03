@@ -17,7 +17,7 @@
 <h2 align ="left">サイト</h2>
 InnovaSystem: [--閉鎖中--]<br>
 SiraisiChannel Networks: [--閉鎖中--]<br>
-ブログ: [--閉鎖中--]<br>
+ブログ: https://blog.schnetworks.net<br>
 YDITS Project: https://yone1130.github.io/YDITS/
 <br>
 <h2 align ="center">ソースコードの利用について</h2>
