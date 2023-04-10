@@ -19,5 +19,5 @@ C#、Python、PHP、JavaScriptを主に使っています。
 ## サイト
 + InnovaSystem: [--閉鎖中--]
 + SiraisiChannel Networks: [--閉鎖中--]
-+ ブログ: https://blog.schnetworks.net
++ ブログ: https://blog.siraisiofficial.net/
 + YDITS Project: https://www.ydits.net/  
