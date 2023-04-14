@@ -15,6 +15,7 @@ C#、Python、PHP、JavaScriptを主に使っています。
 ## 所属団体
 + InnovaSystem (代表)
 + SiraisiChannel Networks (代表・インフラ管理部門責任者)
++ YDITS Project (技術課・配信課)
 
 ## サイト
 + InnovaSystem: [--閉鎖中--]
