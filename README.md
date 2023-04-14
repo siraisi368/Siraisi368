@@ -1,10 +1,10 @@
 # siraisi368 (MasatoSiraisi)
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Siraisi368&theme=nord&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=siraisi368&theme=nord&show_icons=ture" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraisi368&layout=compact&show_icons=true&theme=nord" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraisi368&layout=compact&show_icons=true&theme=nord" />
   </a>
 </p>
 
