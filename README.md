@@ -18,7 +18,7 @@
 
 ## 自己紹介
 関東のどっかでプログラムを書いたり自宅サーバいじりをしている生き物です  
-C#、Python、PHP、JavaScriptを主に使っています。
+C#、Python、PHP、JavaScriptが好きで、よく使っています。
 
 ## 所属団体
 + InnovaSystem (代表)
