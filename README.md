@@ -37,10 +37,8 @@
 ## 所属団体
 + InnovaSystem (代表)
 + SiraisiChannel Networks (代表・インフラ管理部門責任者)
-+ YDITS Project (技術課・配信課)
 
 ## サイト
 + InnovaSystem: [--閉鎖中--]
 + SiraisiChannel Networks: [--閉鎖中--]
 + ブログ: https://blog.siraisiofficial.net/
-+ YDITS Project: https://www.ydits.net/  
