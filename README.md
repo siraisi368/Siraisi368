@@ -41,4 +41,4 @@
 ## サイト
 + InnovaSystem: [--閉鎖中--]
 + SiraisiChannel Networks: [--閉鎖中--]
-+ ブログ: https://blog.siraisiofficial.net/
++ ブログ: https://blog.schnetworks.net/
