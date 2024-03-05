@@ -1,4 +1,4 @@
-# siraisi368 (MasatoSiraisi)
+ siraisi368 (MasatoSiraisi)
 
 <p align="left"> 
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -22,7 +22,7 @@
 
 ## 自己紹介
 関東のどっかでプログラムを書いたり自宅サーバいじりをしている生き物です  
-電子工作や、DIYも大好きです。ないけど欲しいものは作ってしまえ思考の持ち主です。  
+電子工作や、DIYが大好きで、ないけど欲しいものは作ってしまえ思考の持ち主です。  
 ## 使う言語
 ### これすき
 
